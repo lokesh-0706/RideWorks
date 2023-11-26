@@ -1,0 +1,36 @@
+/* YourComponent.css */
+
+.ride-card-container {
+  display: flex;
+  justify-content: center;
+}
+
+.ride-card {
+  width: 1000px;
+  padding: 20px;
+  margin: 5px;
+}
+
+.card-title {
+  color: #61a3ba;
+  font-weight: bold;
+}
+
+.card-info {
+  color: #61a3ba;
+}
+
+.title-highlight {
+  color: #61a3ba;
+  font-weight: bold;
+}
+
+.info-highlight {
+  color: #61a3ba;
+}
+
+.request-button {
+  background-color: #427d9d;
+  color: white;
+  margin-left: 430px;
+}
